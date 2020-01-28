@@ -4,10 +4,10 @@ Finding Name-o will most likely be the biggest time waster for a programmer, spe
 
 ## Right now it's going to be bunch of examples of naming I guess. Ideas are welcome
 
-`val y = Calendar.getInstance().get(Calendar.YEAR) // 2lzy.. `:sleeping:
+`val y = Calendar.get(YEAR) // 2lzy.. `:sleeping:
 
-`val year = Calendar.getInstance().get(Calendar.YEAR) // what year `:unamused:
+`val year = ... // what year `:unamused:
 
-`val thisYear = Calendar.getInstance().get(Calendar.YEAR) // so so ..`:smirk:
+`val thisYear = ... // so so ..`:smirk:
 
-:purple_heart: `val currentYear = Calendar.getInstance().get(Calendar.YEAR) // makes you look professional (or may even looks like you copied from internet)`
+:purple_heart: `val currentYear = ... // makes you look professional (or may even looks like you copied from internet)`
